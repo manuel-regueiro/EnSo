@@ -1,4 +1,4 @@
-# Proyecto Maven: gestión de máquinas expendedoras
+# Proyecto Maven: gestión de máquinas expendedoras (github)
 
 Proyecto de ejemplo para prácticas de Ingeniería del Software orientadas a pruebas.
 
